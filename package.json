@@ -2,9 +2,10 @@
   "name": "to-accounting-server",
   "version": "1.0.0",
   "description": "nodeJS server",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/to-coding/to-accounting-server/issues"
   },
-  "homepage": "https://github.com/to-coding/to-accounting-server#readme"
+  "homepage": "https://github.com/to-coding/to-accounting-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=19.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.0"
+  }
 }
