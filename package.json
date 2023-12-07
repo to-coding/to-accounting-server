@@ -1,0 +1,19 @@
+{
+  "name": "to-accounting-server",
+  "version": "1.0.0",
+  "description": "nodeJS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/to-coding/to-accounting-server.git"
+  },
+  "author": "HGX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/to-coding/to-accounting-server/issues"
+  },
+  "homepage": "https://github.com/to-coding/to-accounting-server#readme"
+}
