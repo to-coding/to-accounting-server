@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "id": "a15cd9e1-8fc0-4df7-8fba-3fc2f0cc9006",
+      "amount": 10000,
+      "method": "支付宝",
+      "note": "支付宝总资产"
+    },
+    {
+      "id": "efcd8772-b68f-432d-ad66-e09548afe351",
+      "amount": 122.9,
+      "method": "微信",
+      "note": "微信钱包"
+    }
+  ]
+}
